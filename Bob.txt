@@ -1,4 +1,8 @@
-versao 1.bob
+<<<<<<< HEAD
+versao 1.bob to aqui a mais tempo
+=======
+versao 1.bobby
+>>>>>>> branch_do_bobby
 versao 2
 versao 3
 versao 4
