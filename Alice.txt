@@ -1,2 +1,6 @@
 Oi, sou Alice.
+<<<<<<< HEAD
 versao 1
+=======
+linha alterada no repositorio remoto
+>>>>>>> ce98a46466d924f3adbd64cfb132e1a83c203544
